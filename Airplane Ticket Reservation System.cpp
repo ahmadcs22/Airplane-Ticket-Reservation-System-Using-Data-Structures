@@ -60,7 +60,7 @@ public:
 			tail = temp;
 		}
 		system("cls");
-		cout << "  ================ UOG Airlines =================  \t\t\t\n\n";
+		cout << "  ================ UOG Airlines PK =================  \t\t\t\n\n";
 		cout << "  ----------Registeration Successfull --------- \t\t\t\n\n";
 		cout << "\nYour id = " << id;
 		cout << "\nYour name = " << name;
