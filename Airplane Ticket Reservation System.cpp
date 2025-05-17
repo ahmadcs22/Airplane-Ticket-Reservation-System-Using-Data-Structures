@@ -389,7 +389,7 @@ public:
 		}
 		system("pause");
 		system("cls");
-		cout<<"\n\n---------------Booking Done----------------";
+		cout<<"\n\n---------------Booking Done !----------------";
 		cout << "\n\n-----------------Receipt-----------------";
 		cout << "\nID: " << id << "\n";
 		cout << "Name: " << getname(id) << "\n";
